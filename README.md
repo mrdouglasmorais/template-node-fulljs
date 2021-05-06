@@ -12,6 +12,6 @@ Para iniciar em modo de desenvolvimento:
 
 ## Aconselhado ter instalado NODEJS versão 14.x em diante.
 
-Para instalar o node clique [aqui]('https://nodejs.org/en/')
+Para instalar o node [clique aqui](https://nodejs.org/en/)
 
 ## Professor Douglas Morais
